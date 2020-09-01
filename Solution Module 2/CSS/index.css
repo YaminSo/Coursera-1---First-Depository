@@ -8,7 +8,7 @@ h1 {
 .first{
   border: 1px solid black;
   background-color: #FFF060;
-  width: 90%;
+  width: 33.33%;
   height: 150px;
   margin-right: auto;
   margin-left: auto;
@@ -19,7 +19,7 @@ h1 {
 .second{
   border: 1px solid blue
   background-color: #782222;
-  width: 90%;
+  width: 33.33%;
   height: 150px;
   margin-right: auto;
   margin-left: auto;
@@ -30,7 +30,7 @@ h1 {
 .third{
   border: 1px solid green;
   background-color: #60FFD7;
-  width: 90%;
+  width: 33.33%;
   height: 150px;
   margin-right: auto;
   margin-left: auto;
@@ -142,13 +142,13 @@ h1 {
 </style>
 
 <div class="first">
-  <div class="col-lg-3 col-md-6"><p>Item 1</p></div>
+  <div class="col-lg-4 col-md-6"><p>Item 1</p></div>
 </div>
 
 <div class="second">
-  <div class="col-lg-3 col-md-6"><p>Item 1</p></div>
+  <div class="col-lg-4 col-md-6"><p>Item 1</p></div>
 </div>
 
 <div class="third">
-  <div class="col-lg-3 col-md-6"><p>Item 1</p></div>
+  <div class="col-lg-4 col-md-6"><p>Item 1</p></div>
 </div>
